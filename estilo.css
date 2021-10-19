@@ -1,0 +1,21 @@
+* {
+	text-align: center;
+	font-size: 25px;
+}
+
+h2 {
+	background: red;
+	color: white;
+	font-size: 40px;
+}
+
+h3 {
+	font-size: 30px;
+}
+.video_1 {
+	width: 350px;
+}
+
+.link {
+	background: yellow;
+}
